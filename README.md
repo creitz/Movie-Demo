@@ -13,7 +13,7 @@ This project is a demo iOS application using [The Movie DB](https://developers.t
 Fork and then clone, or simply clone the repository:
 
 ```
-$ git clone git@github.com:creitz/Movie-Demo-Project.git
+$ git clone git@github.com:creitz/Movie-Demo.git
 ```
 
 The necessary cocoapods are included in source. But, you will need to generate the workspace:
@@ -25,7 +25,7 @@ $ sudo gem install cocoapods #(if you don't have cocoapods installed)
 Change to the correct dir:
 
 ```
-$ cd Movie-Demo-Project/
+$ cd Movie-DemoU/
 ```
 
 Change the value for `project` in Podfile to match your local structure. You only need to replace "path/to/here" with the absolute path to wherever you cloned the project. Then, you can install the pods
