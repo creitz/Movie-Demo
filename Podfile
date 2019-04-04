@@ -1,5 +1,5 @@
 
-project '/path/to/here/Movie-Demo-Project/Movie Demo/Movie Demo.xcodeproj'
+project '/path/to/here/Movie-Demo/Movie Demo/Movie Demo.xcodeproj'
 platform :ios, '10.0'
 
 use_frameworks!
