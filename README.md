@@ -1,4 +1,4 @@
-# Movie-Demo-Project
+# Movie-Demo
 Sample iOS App using Movie Database API
 
 ![](https://img.shields.io/badge/Swift-5.0-blue.svg?style=flat)
