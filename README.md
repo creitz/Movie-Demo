@@ -25,7 +25,7 @@ $ sudo gem install cocoapods #(if you don't have cocoapods installed)
 Change to the correct dir:
 
 ```
-$ cd Movie-DemoU/
+$ cd Movie-Demo/
 ```
 
 Change the value for `project` in Podfile to match your local structure. You only need to replace "path/to/here" with the absolute path to wherever you cloned the project. Then, you can install the pods
