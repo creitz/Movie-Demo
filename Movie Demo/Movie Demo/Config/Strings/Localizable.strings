@@ -1,0 +1,18 @@
+/* 
+  Localizable.strings
+  Movie Demo
+
+  Created by Charles Reitz on 4/1/19.
+  
+*/
+
+"MovieDB" = "MovieDB";
+"Search for a Movie" = "Search for a Movie";
+"No Results" = "No Results 😕";
+"No Connection" = "No Connection 😕";
+"Sorry" = "Sorry 😕";
+"Something went wrong" = "Something went wrong";
+"Try again later" = "Try again later";
+"Try searching for something else" = "Try searching for something else";
+"Budget" = "Budget";
+
